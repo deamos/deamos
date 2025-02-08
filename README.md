@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A Data Engineer, Dad, and Geek 💻
+
+    ⚙️ I use daily: python, json, yaml, liquid, jinja2
+    ⚡ Enjoying Self-Hosting!
